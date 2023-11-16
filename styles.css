@@ -1,0 +1,33 @@
+body {
+    background-color:aquamarine;
+
+}
+
+/* above and below are the elements */
+
+h1 {
+    color: blue;
+}
+div {
+    background-color: bisque;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+/* Here is the class */
+
+.shadow-text {
+    text-shadow: gray 1px 1px;
+}
+
+/* Here are two id's */
+
+#large-paragraph {
+    font-size: 30px;
+}
+
+#contact-us {
+    text-align: center;
+}
